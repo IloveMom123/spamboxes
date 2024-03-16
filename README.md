@@ -1,4 +1,4 @@
-run with boxlauncher.cmd
-close with task manager or boxkiller.cmd
-also keep box.vbs because that is the main source code
-thanks to flytech for making this code!
+Run with boxlauncher.cmd.
+Close with task manager or boxkiller.cmd
+Also keep box.vbs because that is the main source code.
+Thanks to flytech for making this code!
