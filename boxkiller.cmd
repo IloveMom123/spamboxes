@@ -1,2 +1,2 @@
 taskkill /f /im mscript.exe
-taskkill /f /im mscript.exe
+loop
