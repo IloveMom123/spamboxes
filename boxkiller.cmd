@@ -1,7 +1,7 @@
 taskkill /f /im mscript.exe
 taskkill /f /im mscript.exe
 taskkill /f /im mscript.exe
-taskkill /f /im mscript.exetaskkill /f /im mscript.exe
+taskkill /f /im mscript.exe
 taskkill /f /im mscript.exe
 taskkill /f /im mscript.exe
 taskkill /f /im mscript.exe
